@@ -17,7 +17,7 @@ El propósito principal de este sistema es aprovechar las herramientas tecnológ
 *   **Base de Datos:** MySQL
 *   **Lenguaje Backend:** PHP
 *   **Frontend:** HTML, CSS, JavaScript
-*   
+  
 ## Instalación Local (Para el equipo de desarrollo)
 1. Clonar el repositorio en la carpeta `htdocs` de XAMPP:
    `git clone https://github.com/tu-usuario/sicah-web.git`
