@@ -1,5 +1,5 @@
 # SISTEMA-INTEGRAL-DE-COMUNICACIONES-Y-ELECTRONICA-SICE
-![Logo](SISTEMA-INTEGRAL-DE-COMUNICACIONES-Y-ELECTRONICA-SICE/logosice.jpeg)
+<img width="1600" height="1600" alt="logosice" src="https://github.com/user-attachments/assets/c2c439c6-0a34-422d-9a9b-7ca8c7f3b6b1" />
 Proyecto de transformación digital para la Jefatura de Ingeniería en Comunicaciones y Electrónica (ESIME Zacatenco, IPN). Sistema diseñado para optimizar, centralizar y modernizar los procesos internos mediante herramientas tecnológicas.
 # Transformación Digital - Jefatura ICE (SICE)
 
